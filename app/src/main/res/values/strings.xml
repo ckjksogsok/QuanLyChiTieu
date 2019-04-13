@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+    <string name="title_activity_thong_ke">ThongKeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_thong_ke_toan_bo">ThongKeToanBoActivity</string>
+</resources>
